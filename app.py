@@ -1,5 +1,4 @@
 import random
-import requests
 from colorama import init, Back, Style
 import asyncio
 from typing import Any
